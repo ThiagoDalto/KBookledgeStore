@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: KBOOKLEDGE
+  version: 0.0.1
+  description: É uma plataforma de venda de EBooks
+paths: {}
+components: {}
